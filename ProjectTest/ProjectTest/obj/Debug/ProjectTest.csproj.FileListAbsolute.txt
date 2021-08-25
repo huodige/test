@@ -1,0 +1,10 @@
+D:\Test\ProjectTest\ProjectTest\bin\Debug\ProjectTest.exe.config
+D:\Test\ProjectTest\ProjectTest\bin\Debug\ProjectTest.exe
+D:\Test\ProjectTest\ProjectTest\bin\Debug\ProjectTest.pdb
+D:\Test\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.CoreCompileInputs.cache
+D:\Test\ProjectTest\ProjectTest\obj\Debug\ProjectTest.exe
+D:\Test\ProjectTest\ProjectTest\obj\Debug\ProjectTest.pdb
+D:\Test\ProjectTest\ProjectTest\bin\Debug\Newtonsoft.Json.dll
+D:\Test\ProjectTest\ProjectTest\bin\Debug\Newtonsoft.Json.xml
+D:\Test\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.CopyComplete
+D:\Test\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.AssemblyReference.cache
